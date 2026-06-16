@@ -1,4 +1,4 @@
-# CODSOFT_task 2
+# CODSOFT
 tic-tac-toe AI
 
 
